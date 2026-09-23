@@ -27,3 +27,6 @@
 {"n":27,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, west gutter. arc left open. 6 steps. The plywood stays for the wipe."}
 {"n":28,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the plywood at Mast yard. Nobody past the west gutter. We wipe in 7 steps. Arc on the left lane, open."}
 {"n":29,"kind":"place","name":"Mast yard west gutter","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Mast yard west gutter. Nia keeps the plywood for the wipe. 8 steps, arc on the left lane, open."}
+{"n":30,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, west gutter. arc left open. 2 steps. The plywood stays for the wipe."}
+{"n":31,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the plywood at Mast yard. Nobody past the west gutter. We wipe in 3 steps. Arc on the left lane, open."}
+{"n":32,"kind":"place","name":"Mast yard west gutter","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Mast yard west gutter. Ivo keeps the plywood for the wipe. 4 steps, arc on the left lane, open."}
