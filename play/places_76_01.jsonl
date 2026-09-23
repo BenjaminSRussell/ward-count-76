@@ -842,3 +842,6 @@
 {"n":842,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, west gutter. arc left open. 8 steps. The radio coil stays for the wipe."}
 {"n":843,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the radio coil at Stockyard fence. Nobody past the west gutter. We wipe in 2 steps. Arc on the left lane, open."}
 {"n":844,"kind":"place","name":"Stockyard fence west gutter","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Stockyard fence west gutter. Ivo keeps the radio coil for the wipe. 3 steps, arc on the left lane, open."}
+{"n":845,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, west gutter. arc left open. 4 steps. The radio coil stays for the wipe."}
+{"n":846,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the radio coil at Stockyard fence. Nobody past the west gutter. We wipe in 5 steps. Arc on the left lane, open."}
+{"n":847,"kind":"place","name":"Stockyard fence west gutter","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Stockyard fence west gutter. Bess keeps the radio coil for the wipe. 6 steps, arc on the left lane, open."}
