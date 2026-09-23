@@ -572,3 +572,6 @@
 {"n":572,"kind":"place","name":"the Underpass south gutter","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Underpass south gutter. Ivo keeps the crate for the wipe. 6 steps, arc on the left lane, open."}
 {"n":573,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, south gutter. arc left open. 7 steps. The crate stays for the wipe."}
 {"n":574,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the crate at the Underpass. Nobody past the south gutter. We wipe in 8 steps. Arc on the left lane, open."}
+{"n":575,"kind":"place","name":"the Underpass south gutter","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Underpass south gutter. Bess keeps the crate for the wipe. 2 steps, arc on the left lane, open."}
+{"n":576,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, south gutter. arc left open. 3 steps. The crate stays for the wipe."}
+{"n":577,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the crate at Mast yard. Nobody past the south gutter. We wipe in 4 steps. Arc on the left lane, open."}
