@@ -670,3 +670,6 @@
 {"n":670,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the drum at Switchyard. Nobody past the west stair. We wipe in 3 steps. Arc on the left lane, open."}
 {"n":671,"kind":"place","name":"Switchyard west stair","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Switchyard west stair. Bess keeps the drum for the wipe. 4 steps, arc on the left lane, open."}
 {"n":672,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west stair. arc left open. 5 steps. The drum stays for the wipe."}
+{"n":673,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the drum at Drydock. Nobody past the west stair. We wipe in 6 steps. Arc on the left lane, open."}
+{"n":674,"kind":"place","name":"Drydock west stair","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Drydock west stair. Matt keeps the drum for the wipe. 7 steps, arc on the left lane, open."}
+{"n":675,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, west stair. arc left open. 8 steps. The drum stays for the wipe."}
