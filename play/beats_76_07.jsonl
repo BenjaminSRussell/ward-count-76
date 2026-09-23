@@ -45,3 +45,6 @@
 {"n":45,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the rope at Stockyard fence. Nobody past the south gutter. We wipe in 3 steps. Arc on the left lane, open."}
 {"n":46,"kind":"place","name":"Stockyard fence south gutter","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Stockyard fence south gutter. Matt keeps the rope for the wipe. 4 steps, arc on the left lane, open."}
 {"n":47,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, south gutter. arc left open. 5 steps. The rope stays for the wipe."}
+{"n":48,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the rope at Stockyard fence. Nobody past the south gutter. We wipe in 6 steps. Arc on the left lane, open."}
+{"n":49,"kind":"place","name":"Stockyard fence south gutter","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Stockyard fence south gutter. Nia keeps the rope for the wipe. 7 steps, arc on the left lane, open."}
+{"n":50,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, south gutter. arc left open. 8 steps. The rope stays for the wipe."}
