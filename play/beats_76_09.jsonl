@@ -526,3 +526,6 @@
 {"n":526,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the awning at High line. Nobody past the west stair. We wipe in 6 steps. Arc on the left lane, open."}
 {"n":527,"kind":"place","name":"High line west stair","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"High line west stair. Bess keeps the awning for the wipe. 7 steps, arc on the left lane, open."}
 {"n":528,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, west stair. arc left open. 8 steps. The awning stays for the wipe."}
+{"n":529,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the drum at Ward gate. Nobody past the west stair. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":530,"kind":"place","name":"Ward gate west stair","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Ward gate west stair. Matt keeps the drum for the wipe. 3 steps, arc on the left lane, open."}
+{"n":531,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, west stair. arc left open. 4 steps. The drum stays for the wipe."}
