@@ -865,3 +865,6 @@
 {"n":865,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the radio coil at Mall court. Nobody past the east gutter. We wipe in 8 steps. Arc on the left lane, open."}
 {"n":866,"kind":"place","name":"Mall court east gutter","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Mall court east gutter. Matt keeps the radio coil for the wipe. 2 steps, arc on the left lane, open."}
 {"n":867,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, east gutter. arc left open. 3 steps. The radio coil stays for the wipe."}
+{"n":868,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the radio coil at Mall court. Nobody past the east gutter. We wipe in 4 steps. Arc on the left lane, open."}
+{"n":869,"kind":"place","name":"Mall court east gutter","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Mall court east gutter. Nia keeps the radio coil for the wipe. 5 steps, arc on the left lane, open."}
+{"n":870,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, east gutter. arc left open. 6 steps. The radio coil stays for the wipe."}
