@@ -980,3 +980,6 @@
 {"n":980,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, south gutter. arc left open. 7 steps. The radio coil stays for the wipe."}
 {"n":981,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the radio coil at Switchyard. Nobody past the south gutter. We wipe in 8 steps. Arc on the left lane, open."}
 {"n":982,"kind":"place","name":"Switchyard south gutter","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Switchyard south gutter. Matt keeps the radio coil for the wipe. 2 steps, arc on the left lane, open."}
+{"n":983,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, south gutter. arc left open. 3 steps. The radio coil stays for the wipe."}
+{"n":984,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the radio coil at Switchyard. Nobody past the south gutter. We wipe in 4 steps. Arc on the left lane, open."}
+{"n":985,"kind":"place","name":"Switchyard south gutter","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Switchyard south gutter. Nia keeps the radio coil for the wipe. 5 steps, arc on the left lane, open."}
