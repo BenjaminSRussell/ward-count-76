@@ -493,3 +493,6 @@
 {"n":493,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west stair. arc left open. 2 steps. The barrel stays for the wipe."}
 {"n":494,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the barrel at Switchyard. Nobody past the west stair. We wipe in 3 steps. Arc on the left lane, open."}
 {"n":495,"kind":"place","name":"Switchyard west stair","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Switchyard west stair. Bess keeps the barrel for the wipe. 4 steps, arc on the left lane, open."}
+{"n":496,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west stair. arc left open. 5 steps. The barrel stays for the wipe."}
+{"n":497,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the barrel at Drydock. Nobody past the west stair. We wipe in 6 steps. Arc on the left lane, open."}
+{"n":498,"kind":"place","name":"Drydock west stair","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Drydock west stair. Matt keeps the barrel for the wipe. 7 steps, arc on the left lane, open."}
