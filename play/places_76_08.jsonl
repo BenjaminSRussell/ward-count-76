@@ -370,3 +370,6 @@
 {"n":370,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, west stair. arc left open. 5 steps. The barrel stays for the wipe."}
 {"n":371,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the barrel at Kessler alley. Nobody past the west stair. We wipe in 6 steps. Arc on the left lane, open."}
 {"n":372,"kind":"place","name":"Kessler alley west stair","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Kessler alley west stair. Ivo keeps the barrel for the wipe. 7 steps, arc on the left lane, open."}
+{"n":373,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west stair. arc left open. 8 steps. The barrel stays for the wipe."}
+{"n":374,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the barrel at Kessler alley. Nobody past the west stair. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":375,"kind":"place","name":"Kessler alley west stair","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Kessler alley west stair. Bess keeps the barrel for the wipe. 3 steps, arc on the left lane, open."}
