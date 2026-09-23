@@ -251,3 +251,6 @@
 {"n":251,"kind":"place","name":"Mall court west stair","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mall court west stair. Bess keeps the shutter for the wipe. 4 steps, arc on the left lane, open."}
 {"n":252,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, west stair. arc left open. 5 steps. The shutter stays for the wipe."}
 {"n":253,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the shutter at the Underpass. Nobody past the west stair. We wipe in 6 steps. Arc on the left lane, open."}
+{"n":254,"kind":"place","name":"the Underpass west stair","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Underpass west stair. Matt keeps the shutter for the wipe. 7 steps, arc on the left lane, open."}
+{"n":255,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, west stair. arc left open. 8 steps. The shutter stays for the wipe."}
+{"n":256,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the shutter at the Underpass. Nobody past the west stair. We wipe in 2 steps. Arc on the left lane, open."}
