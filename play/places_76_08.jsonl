@@ -418,3 +418,6 @@
 {"n":418,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, west stair. arc left open. 4 steps. The barrel stays for the wipe."}
 {"n":419,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the barrel at the Underpass. Nobody past the west stair. We wipe in 5 steps. Arc on the left lane, open."}
 {"n":420,"kind":"place","name":"the Underpass west stair","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Underpass west stair. Ivo keeps the barrel for the wipe. 6 steps, arc on the left lane, open."}
+{"n":421,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, west stair. arc left open. 7 steps. The barrel stays for the wipe."}
+{"n":422,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the barrel at the Underpass. Nobody past the west stair. We wipe in 8 steps. Arc on the left lane, open."}
+{"n":423,"kind":"place","name":"the Underpass west stair","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the Underpass west stair. Bess keeps the barrel for the wipe. 2 steps, arc on the left lane, open."}
