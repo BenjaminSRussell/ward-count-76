@@ -614,3 +614,6 @@
 {"n":614,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, west gutter. arc left open. 4 steps. The drum stays for the wipe."}
 {"n":615,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the drum at Drydock. Nobody past the west gutter. We wipe in 5 steps. Arc on the left lane, open."}
 {"n":616,"kind":"place","name":"Drydock west gutter","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Drydock west gutter. Ivo keeps the drum for the wipe. 6 steps, arc on the left lane, open."}
+{"n":617,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, west gutter. arc left open. 7 steps. The drum stays for the wipe."}
+{"n":618,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the drum at Drydock. Nobody past the west gutter. We wipe in 8 steps. Arc on the left lane, open."}
+{"n":619,"kind":"place","name":"Drydock west gutter","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Drydock west gutter. Bess keeps the drum for the wipe. 2 steps, arc on the left lane, open."}
