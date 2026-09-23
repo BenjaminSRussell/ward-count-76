@@ -678,3 +678,6 @@
 {"n":678,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, west stair. arc left open. 4 steps. The drum stays for the wipe."}
 {"n":679,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the drum at Drydock. Nobody past the west stair. We wipe in 5 steps. Arc on the left lane, open."}
 {"n":680,"kind":"place","name":"Drydock west stair","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Drydock west stair. Ivo keeps the drum for the wipe. 6 steps, arc on the left lane, open."}
+{"n":681,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, west stair. arc left open. 7 steps. The drum stays for the wipe."}
+{"n":682,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the drum at Drydock. Nobody past the west stair. We wipe in 8 steps. Arc on the left lane, open."}
+{"n":683,"kind":"place","name":"Drydock west stair","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Drydock west stair. Bess keeps the drum for the wipe. 2 steps, arc on the left lane, open."}
