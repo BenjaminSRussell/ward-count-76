@@ -432,3 +432,6 @@
 {"n":432,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, east gutter. arc left open. 2 steps. The awning stays for the wipe."}
 {"n":433,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the awning at Clinic roof. Nobody past the east gutter. We wipe in 3 steps. Arc on the left lane, open."}
 {"n":434,"kind":"place","name":"Clinic roof east gutter","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Clinic roof east gutter. Matt keeps the awning for the wipe. 4 steps, arc on the left lane, open."}
+{"n":435,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, east gutter. arc left open. 5 steps. The awning stays for the wipe."}
+{"n":436,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the awning at Clinic roof. Nobody past the east gutter. We wipe in 6 steps. Arc on the left lane, open."}
+{"n":437,"kind":"place","name":"Clinic roof east gutter","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Clinic roof east gutter. Nia keeps the awning for the wipe. 7 steps, arc on the left lane, open."}
