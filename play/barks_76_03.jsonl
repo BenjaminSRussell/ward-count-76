@@ -383,3 +383,6 @@
 {"n":383,"kind":"place","name":"the Underpass east gutter","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the Underpass east gutter. Bess keeps the awning for the wipe. 2 steps, arc on the left lane, open."}
 {"n":384,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, east gutter. arc left open. 3 steps. The awning stays for the wipe."}
 {"n":385,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the awning at Mast yard. Nobody past the east gutter. We wipe in 4 steps. Arc on the left lane, open."}
+{"n":386,"kind":"place","name":"Mast yard east gutter","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Mast yard east gutter. Matt keeps the awning for the wipe. 5 steps, arc on the left lane, open."}
+{"n":387,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, east gutter. arc left open. 6 steps. The awning stays for the wipe."}
+{"n":388,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the awning at Mast yard. Nobody past the east gutter. We wipe in 7 steps. Arc on the left lane, open."}
