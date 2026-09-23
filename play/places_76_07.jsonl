@@ -569,3 +569,6 @@
 {"n":569,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, south gutter. arc left open. 2 steps. The drum stays for the wipe."}
 {"n":570,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the drum at Mall court. Nobody past the south gutter. We wipe in 3 steps. Arc on the left lane, open."}
 {"n":571,"kind":"place","name":"Mall court south gutter","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mall court south gutter. Bess keeps the drum for the wipe. 4 steps, arc on the left lane, open."}
+{"n":572,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, south gutter. arc left open. 5 steps. The drum stays for the wipe."}
+{"n":573,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the drum at the Underpass. Nobody past the south gutter. We wipe in 6 steps. Arc on the left lane, open."}
+{"n":574,"kind":"place","name":"the Underpass south gutter","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Underpass south gutter. Matt keeps the drum for the wipe. 7 steps, arc on the left lane, open."}
