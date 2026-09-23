@@ -92,3 +92,6 @@
 {"n":92,"kind":"place","name":"the Underpass west stair","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Underpass west stair. Ivo keeps the rope for the wipe. 6 steps, arc on the left lane, open."}
 {"n":93,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, west stair. arc left open. 7 steps. The rope stays for the wipe."}
 {"n":94,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the rope at the Underpass. Nobody past the west stair. We wipe in 8 steps. Arc on the left lane, open."}
+{"n":95,"kind":"place","name":"the Underpass west stair","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Underpass west stair. Bess keeps the rope for the wipe. 2 steps, arc on the left lane, open."}
+{"n":96,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, west stair. arc left open. 3 steps. The rope stays for the wipe."}
+{"n":97,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the rope at Mast yard. Nobody past the west stair. We wipe in 4 steps. Arc on the left lane, open."}
