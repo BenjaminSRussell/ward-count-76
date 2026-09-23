@@ -538,3 +538,6 @@
 {"n":538,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the crate at Mast yard. Nobody past the west gutter. We wipe in 6 steps. Arc on the left lane, open."}
 {"n":539,"kind":"place","name":"Mast yard west gutter","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mast yard west gutter. Bess keeps the crate for the wipe. 7 steps, arc on the left lane, open."}
 {"n":540,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, west gutter. arc left open. 8 steps. The crate stays for the wipe."}
+{"n":541,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the crate at Last Light. Nobody past the west gutter. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":542,"kind":"place","name":"Last Light west gutter","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Last Light west gutter. Matt keeps the crate for the wipe. 3 steps, arc on the left lane, open."}
+{"n":543,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, west gutter. arc left open. 4 steps. The crate stays for the wipe."}
