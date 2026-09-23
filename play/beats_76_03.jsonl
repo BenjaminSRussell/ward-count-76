@@ -958,3 +958,6 @@
 {"n":958,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the radio coil at Switchyard. Nobody past the east gutter. We wipe in 3 steps. Arc on the left lane, open."}
 {"n":959,"kind":"place","name":"Switchyard east gutter","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Switchyard east gutter. Bess keeps the radio coil for the wipe. 4 steps, arc on the left lane, open."}
 {"n":960,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, east gutter. arc left open. 5 steps. The radio coil stays for the wipe."}
+{"n":961,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the radio coil at Drydock. Nobody past the east gutter. We wipe in 6 steps. Arc on the left lane, open."}
+{"n":962,"kind":"place","name":"Drydock east gutter","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Drydock east gutter. Matt keeps the radio coil for the wipe. 7 steps, arc on the left lane, open."}
+{"n":963,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, east gutter. arc left open. 8 steps. The radio coil stays for the wipe."}
