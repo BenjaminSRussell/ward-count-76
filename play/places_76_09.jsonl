@@ -357,3 +357,6 @@
 {"n":357,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, west stair. arc left open. 5 steps. The shutter stays for the wipe."}
 {"n":358,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the shutter at High line. Nobody past the west stair. We wipe in 6 steps. Arc on the left lane, open."}
 {"n":359,"kind":"place","name":"High line west stair","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line west stair. Bess keeps the shutter for the wipe. 7 steps, arc on the left lane, open."}
+{"n":360,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, west stair. arc left open. 8 steps. The shutter stays for the wipe."}
+{"n":361,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the awning at Ward gate. Nobody past the west stair. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":362,"kind":"place","name":"Ward gate west stair","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Ward gate west stair. Matt keeps the awning for the wipe. 3 steps, arc on the left lane, open."}
