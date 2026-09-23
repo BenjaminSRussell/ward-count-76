@@ -825,3 +825,6 @@
 {"n":825,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, west gutter. arc left open. 6 steps. The rebar stays for the wipe."}
 {"n":826,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the rebar at the Lot. Nobody past the west gutter. We wipe in 7 steps. Arc on the left lane, open."}
 {"n":827,"kind":"place","name":"the Lot west gutter","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Lot west gutter. Bess keeps the rebar for the wipe. 8 steps, arc on the left lane, open."}
+{"n":828,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, west gutter. arc left open. 2 steps. The rebar stays for the wipe."}
+{"n":829,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the rebar at Stockyard fence. Nobody past the west gutter. We wipe in 3 steps. Arc on the left lane, open."}
+{"n":830,"kind":"place","name":"Stockyard fence west gutter","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Stockyard fence west gutter. Matt keeps the rebar for the wipe. 4 steps, arc on the left lane, open."}
