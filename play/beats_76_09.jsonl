@@ -649,3 +649,6 @@
 {"n":649,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the drum at Clinic roof. Nobody past the west stair. We wipe in 3 steps. Arc on the left lane, open."}
 {"n":650,"kind":"place","name":"Clinic roof west stair","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Clinic roof west stair. Matt keeps the drum for the wipe. 4 steps, arc on the left lane, open."}
 {"n":651,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, west stair. arc left open. 5 steps. The drum stays for the wipe."}
+{"n":652,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the drum at Clinic roof. Nobody past the west stair. We wipe in 6 steps. Arc on the left lane, open."}
+{"n":653,"kind":"place","name":"Clinic roof west stair","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Clinic roof west stair. Nia keeps the drum for the wipe. 7 steps, arc on the left lane, open."}
+{"n":654,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, west stair. arc left open. 8 steps. The drum stays for the wipe."}
