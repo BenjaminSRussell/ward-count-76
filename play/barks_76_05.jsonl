@@ -762,3 +762,6 @@
 {"n":762,"kind":"place","name":"South stair north gutter","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"South stair north gutter. Matt keeps the badge door for the wipe. 8 steps, arc on the left lane, open."}
 {"n":763,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, north gutter. arc left open. 2 steps. The badge door stays for the wipe."}
 {"n":764,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the badge door at South stair. Nobody past the north gutter. We wipe in 3 steps. Arc on the left lane, open."}
+{"n":765,"kind":"place","name":"South stair north gutter","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"South stair north gutter. Nia keeps the badge door for the wipe. 4 steps, arc on the left lane, open."}
+{"n":766,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, north gutter. arc left open. 5 steps. The badge door stays for the wipe."}
+{"n":767,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the badge door at South stair. Nobody past the north gutter. We wipe in 6 steps. Arc on the left lane, open."}
