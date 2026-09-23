@@ -601,3 +601,6 @@
 {"n":601,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the crate at Drydock. Nobody past the west gutter. We wipe in 6 steps. Arc on the left lane, open."}
 {"n":602,"kind":"place","name":"Drydock west gutter","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Drydock west gutter. Matt keeps the crate for the wipe. 7 steps, arc on the left lane, open."}
 {"n":603,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, west gutter. arc left open. 8 steps. The crate stays for the wipe."}
+{"n":604,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the crate at Drydock. Nobody past the west gutter. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":605,"kind":"place","name":"Drydock west gutter","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Drydock west gutter. Nia keeps the crate for the wipe. 3 steps, arc on the left lane, open."}
+{"n":606,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, west gutter. arc left open. 4 steps. The crate stays for the wipe."}
