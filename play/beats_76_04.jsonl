@@ -150,3 +150,6 @@
 {"n":150,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the plywood at High line. Nobody past the north gutter. We wipe in 6 steps. Arc on the left lane, open."}
 {"n":151,"kind":"place","name":"High line north gutter","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"High line north gutter. Bess keeps the plywood for the wipe. 7 steps, arc on the left lane, open."}
 {"n":152,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north gutter. arc left open. 8 steps. The plywood stays for the wipe."}
+{"n":153,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the hydrant at Ward gate. Nobody past the north gutter. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":154,"kind":"place","name":"Ward gate north gutter","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Ward gate north gutter. Matt keeps the hydrant for the wipe. 3 steps, arc on the left lane, open."}
+{"n":155,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, north gutter. arc left open. 4 steps. The hydrant stays for the wipe."}
