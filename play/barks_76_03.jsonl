@@ -275,3 +275,6 @@
 {"n":275,"kind":"place","name":"Clinic roof east gutter","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Clinic roof east gutter. Bess keeps the shutter for the wipe. 6 steps, arc on the left lane, open."}
 {"n":276,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, east gutter. arc left open. 7 steps. The shutter stays for the wipe."}
 {"n":277,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the shutter at Switchyard. Nobody past the east gutter. We wipe in 8 steps. Arc on the left lane, open."}
+{"n":278,"kind":"place","name":"Switchyard east gutter","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Switchyard east gutter. Matt keeps the shutter for the wipe. 2 steps, arc on the left lane, open."}
+{"n":279,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, east gutter. arc left open. 3 steps. The shutter stays for the wipe."}
+{"n":280,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the shutter at Switchyard. Nobody past the east gutter. We wipe in 4 steps. Arc on the left lane, open."}
