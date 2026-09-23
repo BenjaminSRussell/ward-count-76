@@ -620,3 +620,6 @@
 {"n":620,"kind":"place","name":"High line west gutter","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"High line west gutter. Ivo keeps the crate for the wipe. 4 steps, arc on the left lane, open."}
 {"n":621,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, west gutter. arc left open. 5 steps. The crate stays for the wipe."}
 {"n":622,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the crate at High line. Nobody past the west gutter. We wipe in 6 steps. Arc on the left lane, open."}
+{"n":623,"kind":"place","name":"High line west gutter","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"High line west gutter. Bess keeps the crate for the wipe. 7 steps, arc on the left lane, open."}
+{"n":624,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, west gutter. arc left open. 8 steps. The crate stays for the wipe."}
+{"n":625,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the lamp at Ward gate. Nobody past the west gutter. We wipe in 2 steps. Arc on the left lane, open."}
