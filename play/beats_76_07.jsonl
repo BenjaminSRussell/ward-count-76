@@ -93,3 +93,6 @@
 {"n":93,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the rope at Last Light. Nobody past the south gutter. We wipe in 2 steps. Arc on the left lane, open."}
 {"n":94,"kind":"place","name":"Last Light south gutter","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Last Light south gutter. Matt keeps the rope for the wipe. 3 steps, arc on the left lane, open."}
 {"n":95,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, south gutter. arc left open. 4 steps. The rope stays for the wipe."}
+{"n":96,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the rope at Last Light. Nobody past the south gutter. We wipe in 5 steps. Arc on the left lane, open."}
+{"n":97,"kind":"place","name":"Last Light south gutter","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Last Light south gutter. Nia keeps the rope for the wipe. 6 steps, arc on the left lane, open."}
+{"n":98,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, south gutter. arc left open. 7 steps. The rope stays for the wipe."}
