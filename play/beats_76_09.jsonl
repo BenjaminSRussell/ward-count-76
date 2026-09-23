@@ -274,3 +274,6 @@
 {"n":274,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the shutter at Mast yard. Nobody past the west stair. We wipe in 6 steps. Arc on the left lane, open."}
 {"n":275,"kind":"place","name":"Mast yard west stair","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Mast yard west stair. Bess keeps the shutter for the wipe. 7 steps, arc on the left lane, open."}
 {"n":276,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, west stair. arc left open. 8 steps. The shutter stays for the wipe."}
+{"n":277,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the shutter at Last Light. Nobody past the west stair. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":278,"kind":"place","name":"Last Light west stair","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Last Light west stair. Matt keeps the shutter for the wipe. 3 steps, arc on the left lane, open."}
+{"n":279,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, west stair. arc left open. 4 steps. The shutter stays for the wipe."}
