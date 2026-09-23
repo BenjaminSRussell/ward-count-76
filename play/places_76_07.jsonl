@@ -683,3 +683,6 @@
 {"n":683,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, south gutter. arc left open. 4 steps. The badge door stays for the wipe."}
 {"n":684,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the badge door at Ward gate. Nobody past the south gutter. We wipe in 5 steps. Arc on the left lane, open."}
 {"n":685,"kind":"place","name":"Ward gate south gutter","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Ward gate south gutter. Nia keeps the badge door for the wipe. 6 steps, arc on the left lane, open."}
+{"n":686,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, south gutter. arc left open. 7 steps. The badge door stays for the wipe."}
+{"n":687,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the badge door at Ward gate. Nobody past the south gutter. We wipe in 8 steps. Arc on the left lane, open."}
+{"n":688,"kind":"place","name":"Ward gate south gutter","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Ward gate south gutter. Ivo keeps the badge door for the wipe. 2 steps, arc on the left lane, open."}
