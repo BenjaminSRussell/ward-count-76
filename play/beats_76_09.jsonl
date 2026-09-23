@@ -550,3 +550,6 @@
 {"n":550,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the drum at Kessler alley. Nobody past the west stair. We wipe in 2 steps. Arc on the left lane, open."}
 {"n":551,"kind":"place","name":"Kessler alley west stair","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Kessler alley west stair. Bess keeps the drum for the wipe. 3 steps, arc on the left lane, open."}
 {"n":552,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west stair. arc left open. 4 steps. The drum stays for the wipe."}
+{"n":553,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the drum at the Lot. Nobody past the west stair. We wipe in 5 steps. Arc on the left lane, open."}
+{"n":554,"kind":"place","name":"the Lot west stair","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Lot west stair. Matt keeps the drum for the wipe. 6 steps, arc on the left lane, open."}
+{"n":555,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, west stair. arc left open. 7 steps. The drum stays for the wipe."}
