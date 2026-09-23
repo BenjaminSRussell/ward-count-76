@@ -88,3 +88,6 @@
 {"n":88,"kind":"place","name":"Mast yard south gutter","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Mast yard south gutter. Ivo keeps the rope for the wipe. 4 steps, arc on the left lane, open."}
 {"n":89,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, south gutter. arc left open. 5 steps. The rope stays for the wipe."}
 {"n":90,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the rope at Mast yard. Nobody past the south gutter. We wipe in 6 steps. Arc on the left lane, open."}
+{"n":91,"kind":"place","name":"Mast yard south gutter","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mast yard south gutter. Bess keeps the rope for the wipe. 7 steps, arc on the left lane, open."}
+{"n":92,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, south gutter. arc left open. 8 steps. The rope stays for the wipe."}
+{"n":93,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the rope at Last Light. Nobody past the south gutter. We wipe in 2 steps. Arc on the left lane, open."}
