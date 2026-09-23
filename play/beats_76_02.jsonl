@@ -101,3 +101,6 @@
 {"n":101,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the plywood at Switchyard. Nobody past the east gutter. We wipe in 8 steps. Arc on the left lane, open."}
 {"n":102,"kind":"place","name":"Switchyard east gutter","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Switchyard east gutter. Matt keeps the plywood for the wipe. 2 steps, arc on the left lane, open."}
 {"n":103,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, east gutter. arc left open. 3 steps. The plywood stays for the wipe."}
+{"n":104,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the plywood at Switchyard. Nobody past the east gutter. We wipe in 4 steps. Arc on the left lane, open."}
+{"n":105,"kind":"place","name":"Switchyard east gutter","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Switchyard east gutter. Nia keeps the plywood for the wipe. 5 steps, arc on the left lane, open."}
+{"n":106,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, east gutter. arc left open. 6 steps. The plywood stays for the wipe."}
